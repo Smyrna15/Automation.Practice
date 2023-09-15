@@ -35,4 +35,4 @@ This is where I practice Test Automation!
 * After executing, you can easily generate the ***Allure Report*** by opening a command-line terminal on the project root path and type `mvn allure:serve` (needs to be able to execute mvn commands); Or you can find the Extent Report ***ExtentReports.html*** in the project root path for the latest execution
 
 
-###### Finally, you can also find a [playlist on Youtube](https://youtube.com/playlist?list=PLmayvCz0Xqr6TT-XJHlPtjDSdJ8WArBHi) (Arabic content) that summarizes and executing the project for some cases
+
